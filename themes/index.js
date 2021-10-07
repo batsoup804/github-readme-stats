@@ -318,6 +318,12 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  magma: {
+  title_color: "4c129e",
+  icon_color: "4c129e",
+  text_color: "7331cf",
+  bg_color: "ec7f27",
+  },
 };
 
 module.exports = themes;
